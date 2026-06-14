@@ -33,7 +33,7 @@ It features a clean UI layout with attractive sections for products, offers, and
 🔗 Live Demo
 
 
-👉 Add your live demo link here
+👉 https://samir-frontend.github.io/Responsive-Landing-Page-ShopEase/
 
 
 
