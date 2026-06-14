@@ -50,7 +50,6 @@ ShopEase can be used as a front-end template for online stores, product showcase
 
 - Add shopping cart functionality
 - Add product filtering system
-- Add payment integration
 - Add user authentication
 
   
