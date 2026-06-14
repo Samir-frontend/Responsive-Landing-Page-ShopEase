@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ShopEase - Best Electronics</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Navbar -->
+<nav>
+  <div class="logo">ShopEase</div>
+  <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+  <ul class="nav-links" id="navLinks">
+    <li><a href="#home">Home</a></li>
+    <li><a href="#products">Products</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- Home / Hero Section -->
+<section class="hero" id="home">
+  <h1>Best Deals on Electronics</h1>
+  <p>Find the best gadgets at unbeatable prices</p>
+  <div class="search-box">
+    <input type="text" id="searchInput" placeholder="Search products...">
+    <button onclick="searchProduct()">Search</button>
+  </div>
+  <p id="searchResult"></p>
+</section>
+
+<!-- Products Section -->
+<section class="products" id="products">
+  <h2>Featured Products</h2>
+  <div class="product-grid">
+    <div class="product">
+      <img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=200&fit=crop" alt="Headphones">
+      <h3>Headphones</h3>
+      <p class="price">₹1999</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+    <div class="product">
+      <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=200&fit=crop" alt="Smartwatch">
+      <h3>Smartwatch</h3>
+      <p class="price">₹2999</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+    <div class="product">
+      <img src="https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=300&h=200&fit=crop" alt="Speaker">
+      <h3>Bluetooth Speaker</h3>
+      <p class="price">₹1499</p>
+      <button class="buy-btn">Buy Now</button>
+    </div>
+  </div>
+</section>
+
+<!-- About Section -->
+<section class="about" id="about">
+  <div class="about-container">
+    <div class="about-text">
+      <h2>About Us</h2>
+      <p>ShopEase is your one-stop destination for the latest electronics at the best prices. We believe in quality, affordability, and customer satisfaction.</p>
+      <ul>
+        <li>✅ 100% Genuine Products</li>
+        <li>✅ Free Shipping on orders above ₹999</li>
+        <li>✅ Easy Returns within 7 days</li>
+        <li>✅ 24/7 Customer Support</li>
+      </ul>
+    </div>
+    <div class="about-image">
+      <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=400&h=300&fit=crop" alt="About Us">
+    </div>
+  </div>
+</section>
+
+<!-- Contact Section -->
+<section class="contact" id="contact">
+  <h2>Contact Us</h2>
+  <div class="contact-container">
+    <div class="contact-info">
+      <h3>Get In Touch</h3>
+      <p>📍 123, MG Road, Mumbai, India</p>
+      <p>📞 +91 98765 43210</p>
+      <p>📧 support@shopease.in</p>
+      <p>🕐 Mon - Sat: 9AM to 6PM</p>
+    </div>
+    <div class="contact-form">
+      <input type="text" id="userName" placeholder="Your Name">
+      <input type="email" id="userEmail" placeholder="Your Email">
+      <textarea id="userMessage" rows="4" placeholder="Your Message"></textarea>
+      <button onclick="submitForm()">Send Message 📨</button>
+      <p id="formMsg"></p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2026 ShopEase. All rights reserved.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
