@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=180&section=header&text=🛍️%20ShopEase%20—%20Landing%20Page&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Responsive%20E-Commerce%20Landing%20Page%20%E2%80%94%20by%20Samir%20Sheikh&descSize=15&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=180&section=header&text=🛍️%20ShopEase%20—%20Landing%20Page&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Responsive%20E-Commerce%20Landing%20Page%20%E2%80%94%20by%20Samir%20Sheikh&descSize=15&descAlignY=62"/>
 
 <a href="https://samir-frontend.github.io/Responsive-Landing-Page-ShopEase/">
   <img src="https://img.shields.io/badge/🛒%20Live%20Demo-Shop%20Now-00C896?style=for-the-badge"/>
@@ -13,7 +13,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Live%20🟢-00C896?style=flat-square)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes%20📱-00C896?style=flat-square)
-![Made with](https://img.shields.io/badge/Made%20with-Pure%20CSS-00C896?style=flat-square)
+<img src="https://img.shields.io/badge/Internship%20Project-Saiket%20Systems-00C896?style=flat-square"/>
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## 🧾 What is ShopEase?
 
-> A clean, modern, **fully responsive e-commerce landing page** designed to showcase products beautifully. Built with **pure CSS** to master layout techniques — Flexbox, Grid, animations & responsive breakpoints — without relying on any framework.
+> A clean, modern, **fully responsive e-commerce landing page** built during my internship at **Saiket Systems (2026)**. Designed to showcase products beautifully using **pure CSS** — Flexbox, Grid, animations & responsive breakpoints — without relying on any framework.
 
 ---
 
@@ -120,6 +120,18 @@ Responsive-Landing-Page-ShopEase/
 
 ---
 
+## 🏢 Internship Details
+
+```
+Company   :  Saiket Systems
+Role      :  Frontend Development Intern
+Year      :  2026
+Project   :  ShopEase — Responsive E-Commerce Landing Page
+Tech Used :  HTML, CSS
+```
+
+---
+
 ## 🚀 Quick Preview
 
 ```
@@ -163,4 +175,5 @@ Responsive-Landing-Page-ShopEase/
 *🛒 Liked the design? Drop a ⭐ on this repo!*
 
 </div>
+
 
